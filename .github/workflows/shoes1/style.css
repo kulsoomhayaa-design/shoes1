@@ -1,0 +1,25 @@
+
+.cont{
+    height: 170px; 
+    width: 200px; 
+    
+}
+#box{
+    height: 250px;
+    width: 250px;
+    background-color: beige;
+
+}
+#div{
+    background-color: red;
+    color: white;
+
+}
+#bata{
+    display: flex;
+    
+
+}
+
+
+
